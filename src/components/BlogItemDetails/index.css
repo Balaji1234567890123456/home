@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.king {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.pok {
+  align-self: flex-start;
+}
+.zup {
+  height: 50px;
+  width: 50px;
+  border-radius: 40px;
+}
+.pip {
+  height: 500px;
+  width: 600px;
+  border-radius: 20px;
+}

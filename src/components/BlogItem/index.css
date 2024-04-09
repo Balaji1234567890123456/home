@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.lol {
+  display: flex;
+  padding: 10px;
+}
+
+.poli {
+  height: 50px;
+  width: 50px;
+  border-radius: 40px;
+}
+.oop {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}

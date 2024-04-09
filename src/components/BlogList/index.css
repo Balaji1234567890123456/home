@@ -1,0 +1,5 @@
+/* Write your CSS code here */
+.pol {
+  display: flex;
+  flex-direction: column;
+}
